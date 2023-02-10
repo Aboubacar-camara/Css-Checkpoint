@@ -1,0 +1,200 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+.navbar
+{
+  display: flex;
+  background-color: black;  
+}
+.navbar-logo
+{
+    color: white;
+    margin-left: 60px;
+}
+span
+{
+    font-size: 30px;
+    color: red;
+}
+.navbar-link
+{
+    display: flex;
+    list-style: none;
+    color: white;
+    padding-left: 65%;
+}
+li
+{
+    display: inline;
+    padding: 10px;
+}
+a:hover
+{
+    color: red;
+}
+a:visited
+{
+    color: white;
+}
+a:active
+{
+    color: yellow;
+}
+.salut
+{
+    margin-left: 5%;
+    font-size: 50px;
+}
+.description
+{
+    margin-left: 5%;
+}
+.paragraphe
+{
+        display: block;
+}
+.home-info p
+{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 5%;
+}
+.btn-1
+{
+    margin-left: 5%;
+    background-color: red;
+    font-size: 30px;
+    border-radius: 20px;
+    color: white;
+}
+.btn-2
+{
+    background-color: red;
+    font-size: 30px;
+    border-radius: 30px;
+    color: white;
+}
+.btn-1:hover
+{
+    color: black;
+    background-color: aqua;
+}
+.btn-2:hover
+{
+    color: black;
+    background-color: aqua;
+}
+.home-img
+{
+    margin-left: 60%;
+    margin-top: -25%;
+    height: 500px;
+    width: 500px;
+    border-radius: 300px;
+}
+.about
+{
+    font-size: 45px;
+    margin-left: 5%;
+}
+.about-description p
+{
+    margin-left: 5%;
+    text-align: justify;
+    background-color: red;
+    width: 30%;
+    height: 100%;
+    border-radius: 10px;
+}
+.service
+{
+    font-size: 45px;
+    margin-left: 60%;
+    margin-top: -280px;
+}
+.service-description p
+{
+    margin-left: 50%;
+    text-align: justify;
+    background-color: red;
+    width: 30%;
+    height: 100%;
+    border-radius: 10px;
+}
+.porfolio
+{
+    font-size: 45px;
+    margin-left: 5%;
+}
+.porolio-description img
+{
+    width: 400px;
+    height: 250px;
+    margin-left: 5%;
+}
+.projet
+{
+    font-size: 45px;
+    margin-left: 60%;
+    margin-top: -340px;
+}
+.projet-description img
+{
+    width: 400px;
+    height: 250px;
+    margin-left: 50%;
+    margin-top: -12px;
+}
+.cv
+{
+    font-size: 45px;
+    margin-left: 40%;
+}
+.cv-description p
+{
+    margin-left: 5%;
+    background-color: red;
+    width: 90%;
+    border-radius: 2%;
+}
+.email
+{
+    font-size: 45px;
+    margin-left: 40%;   
+}
+.email-paragraphe
+{
+    font-size: 20px;
+    margin-left: 35%;
+}
+#Nom
+{
+    margin-left: 30%;
+}
+.point-red
+{
+    color: red;
+    font-size: 20px;
+}
+.footer-description
+{
+    background-color: black;
+    color: white;
+    height: 100%;
+}
+.footer-logo
+{
+    margin-left: 40%;
+    font-size: 50px;
+}
+.A-logo
+{
+    font-size: 60px;
+}
+.footer-paragraphe
+{
+    margin-left: 12%;
+    font-size: 13px; 
+}
